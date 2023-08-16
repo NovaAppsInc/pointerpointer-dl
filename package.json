@@ -1,0 +1,40 @@
+{
+  "name": "pointerpointer-dl",
+  "version": "1.0.1",
+  "description": "A crappy CLI tool to download all the images from pointerpointer.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "mode index.js"
+  },
+  "keywords": [
+    "pointerpointer",
+    "download",
+    "cli",
+    "tool",
+    "images",
+    "image",
+    "crap",
+    "cli-tool"
+  ],
+  "author": "SNOOT",
+  "license": "ISC",
+  "bin": {
+    "pp-dl": "index.js",
+    "ppdl": "index.js",
+    "pointerpointer-dl": "index.js"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
+    "download": "^8.0.0",
+    "enquirer": "^2.4.1",
+    "figlet": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "yargs": "^17.7.2"
+  },
+  "dependencies": {
+    "got": "^13.0.0"
+  }
+}
