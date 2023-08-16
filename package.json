@@ -1,6 +1,6 @@
 {
   "name": "pointerpointer-dl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A crappy CLI tool to download all the images from pointerpointer.com",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,7 @@
     "crap",
     "cli-tool"
   ],
+  "repository": "https://github.com/NovaAppsInc/pointerpointer-dl.git",
   "author": "SNOOT",
   "license": "ISC",
   "bin": {
